@@ -1,0 +1,26 @@
+body {
+    background-color: #efc47f;
+    text-align: center;
+}
+#input{
+ display:flex;
+ justify-content: space-around;
+}
+#output{
+ display:flex;
+ justify-content: space-around;
+ border: 7px dotted #2b82ce;
+}
+
+button{
+    height: 25px;
+    width: 100px;
+    background-color: #5dabef;
+    border: 2px solid white;
+    border-radius: 3px;
+    font-weight: bold;
+}
+img{
+ height:200px;
+ width: 200px;
+}
